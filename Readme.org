@@ -1,3 +1,2 @@
 * Mi primera web
-El próximo día, la web
- /Hoy vamos a intentar publicar nuestra nueva web/
+El próximo día la web
